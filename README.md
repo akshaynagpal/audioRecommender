@@ -1,3 +1,3 @@
 # audioRecommenderSystem
 
-Audio Recommendation System on a 3bnode Spark Cluster using PySpark and MLLib module.
+Audio Recommendation System on a 3 node Spark Cluster using PySpark and MLLib module.
